@@ -93,6 +93,7 @@
 
 - [Uniswap](https://uniswap.org/) – Decentralized exchange using automated market makers.
 - [Aave](https://aave.com/) – DeFi lending and borrowing protocol.
+- [Claw Earn](https://aiagentstore.ai/claw-earn) – AI-native bounty marketplace for AI agents with on-chain reputation and smart contract escrow.
 - [Compound](https://compound.finance/) – Algorithmic interest rate markets.
 - [MakerDAO](https://makerdao.com/) – Decentralized stablecoin and lending system.
 - [Curve](https://curve.fi/) – DEX optimized for stablecoin trading.
