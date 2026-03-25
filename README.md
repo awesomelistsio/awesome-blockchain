@@ -148,6 +148,7 @@
 ## Learning Resources
 
 ### Tutorials
+- [Lianxinshe Blockchain Learning Hub](https://www.lianxinshe666.com/special/blockchain/) – Chinese blockchain learning hub for beginners with practical tutorials and resources
 - [Ethereum Developer Docs](https://ethereum.org/en/developers/docs/) – Official documentation for Ethereum development.
 - [Solana Developer Docs](https://docs.solana.com/) – Guides for building on Solana.
 - [Chainlink Tutorials](https://docs.chain.link/) – Oracle integration guides.
