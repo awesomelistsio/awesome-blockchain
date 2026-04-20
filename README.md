@@ -57,6 +57,8 @@
 
 ## Smart Contract Platforms
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - AI Agent DeFi blockchain with Proof of Antiquity consensus, rewarding vintage hardware through DePIN mining.
+
 - [Ethereum Virtual Machine (EVM)](https://ethereum.org/en/developers/docs/evm/) – Runtime environment for Ethereum smart contracts.
 - [Solana Programs](https://docs.solana.com/developing/programming-model/overview) – Smart contract model for Solana.
 - [NEAR Protocol](https://near.org/) – Developer-friendly smart contract blockchain.
