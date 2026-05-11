@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Blockchain"
+abstract: "A curated list of tools, platforms, protocols, research papers, educational resources, developer frameworks, and open-source projects related to blockchain technology and distributed ledger systems."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-blockchain"
+keywords:
+  - blockchain
+  - distributed ledger
+  - cryptocurrency
+  - Web3
+  - smart contracts
+  - decentralized systems
+  - Ethereum
+  - Bitcoin
+  - fintech
+  - awesome list
