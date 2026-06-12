@@ -128,6 +128,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Dune](https://dune.com/) – SQL-based blockchain analytics platform.
 - [Glassnode](https://glassnode.com/) – On-chain market intelligence and analytics.
 - [Nansen](https://www.nansen.ai/) – Blockchain analytics and wallet intelligence.
+- [OpenChainBench](https://openchainbench.com/) – Open, reproducible benchmarks for crypto infrastructure with live data and public methodology.
 - [Etherscan](https://etherscan.io/) – Ethereum blockchain explorer.
 
 ## Governance & DAOs
