@@ -129,7 +129,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Glassnode](https://glassnode.com/) – On-chain market intelligence and analytics.
 - [Nansen](https://www.nansen.ai/) – Blockchain analytics and wallet intelligence.
 - [Etherscan](https://etherscan.io/) – Ethereum blockchain explorer.
-- [Formo](https://formo.so/) – Analytics and attribution platform for web3.
+- [Formo](https://formo.so/) – Analytics and attribution platform for onchain apps.
 
 ## Governance & DAOs
 
