@@ -170,6 +170,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Awesome Crypto](https://github.com/awesomelistsio/awesome-cryptocurrency)
 - [Awesome Web3](https://github.com/awesomelistsio/awesome-web3)
 - [Awesome DeFi](https://github.com/awesomelistsio/awesome-defi)
+- [Solana Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold, no external database, ready in 5 minutes.
 
 ## Contribute
 
